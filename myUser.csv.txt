@@ -1,0 +1,4 @@
+1 name,gender,status 
+2 naveen,male,active
+3 geeta,female,inactive
+4 max,male,active
